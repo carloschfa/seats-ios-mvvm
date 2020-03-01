@@ -1,0 +1,5252 @@
+{
+  "Airline": "AI",
+  "BoardPoint": "CDG",
+  "DocType": "Seat_List",
+  "FltKey": 6013807,
+  "FltNo": "0076",
+  "FltSuffix": "null",
+  "Items": [
+    {
+      "AirLine": "AI",
+      "Aisle": 1,
+      "CabinClass": "F",
+      "CabinSideA": "L",
+      "CabinSideB": "XL",
+      "CabinSideC": "XL",
+      "CabinSideD": "XL",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "XR",
+      "CabinSideH": "XR",
+      "CabinSideJ": "XR",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 2,
+      "CabinClass": "F",
+      "CabinSideA": "L",
+      "CabinSideB": "XL",
+      "CabinSideC": "XL",
+      "CabinSideD": "XL",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "XR",
+      "CabinSideH": "XR",
+      "CabinSideJ": "XR",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 3,
+      "CabinClass": "F",
+      "CabinSideA": "L",
+      "CabinSideB": "XL",
+      "CabinSideC": "XL",
+      "CabinSideD": "XL",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "XR",
+      "CabinSideH": "XR",
+      "CabinSideJ": "XR",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigE": {
+        "Primary": [
+          "B"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigF": {
+        "Primary": [
+          "B"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 4,
+      "CabinClass": "F",
+      "CabinSideA": "L",
+      "CabinSideB": "XL",
+      "CabinSideC": "XL",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "XR",
+      "CabinSideJ": "XR",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 6,
+      "CabinClass": "J",
+      "CabinSideA": "XL",
+      "CabinSideB": "XL",
+      "CabinSideC": "XL",
+      "CabinSideD": "L",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "R",
+      "CabinSideH": "XR",
+      "CabinSideJ": "XR",
+      "CabinSideK": "XR",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [
+          "B"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 7,
+      "CabinClass": "J",
+      "CabinSideA": "L",
+      "CabinSideB": "XL",
+      "CabinSideC": "XL",
+      "CabinSideD": "XL",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "XR",
+      "CabinSideH": "XR",
+      "CabinSideJ": "XR",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "B"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [
+          "B"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 8,
+      "CabinClass": "J",
+      "CabinSideA": "XL",
+      "CabinSideB": "L",
+      "CabinSideC": "XL",
+      "CabinSideD": "L",
+      "CabinSideE": "XR",
+      "CabinSideF": "XR",
+      "CabinSideG": "R",
+      "CabinSideH": "XR",
+      "CabinSideJ": "R",
+      "CabinSideK": "XR",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "A",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "A",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 9,
+      "CabinClass": "J",
+      "CabinSideA": "L",
+      "CabinSideB": "XL",
+      "CabinSideC": "XL",
+      "CabinSideD": "XL",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "XR",
+      "CabinSideH": "XR",
+      "CabinSideJ": "XR",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 10,
+      "CabinClass": "J",
+      "CabinSideA": "XL",
+      "CabinSideB": "L",
+      "CabinSideC": "XL",
+      "CabinSideD": "L",
+      "CabinSideE": "XR",
+      "CabinSideF": "XR",
+      "CabinSideG": "R",
+      "CabinSideH": "XR",
+      "CabinSideJ": "R",
+      "CabinSideK": "XR",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "A",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "A",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 11,
+      "CabinClass": "J",
+      "CabinSideA": "L",
+      "CabinSideB": "XL",
+      "CabinSideC": "XL",
+      "CabinSideD": "XL",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "XR",
+      "CabinSideH": "XR",
+      "CabinSideJ": "XR",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 12,
+      "CabinClass": "J",
+      "CabinSideA": "XL",
+      "CabinSideB": "L",
+      "CabinSideC": "XL",
+      "CabinSideD": "O",
+      "CabinSideE": "XL",
+      "CabinSideF": "XP",
+      "CabinSideG": "P",
+      "CabinSideH": "XP",
+      "CabinSideJ": "R",
+      "CabinSideK": "XP",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "A",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "A",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 14,
+      "CabinClass": "J",
+      "CabinSideA": "O",
+      "CabinSideB": "XB",
+      "CabinSideC": "XB",
+      "CabinSideD": "XB",
+      "CabinSideE": "O",
+      "CabinSideF": "P",
+      "CabinSideG": "XP",
+      "CabinSideH": "XP",
+      "CabinSideJ": "XP",
+      "CabinSideK": "P",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 15,
+      "CabinClass": "J",
+      "CabinSideA": "XB",
+      "CabinSideB": "O",
+      "CabinSideC": "XB",
+      "CabinSideD": "O",
+      "CabinSideE": "XP",
+      "CabinSideF": "XP",
+      "CabinSideG": "P",
+      "CabinSideH": "XP",
+      "CabinSideJ": "P",
+      "CabinSideK": "XP",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "A",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "A",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 16,
+      "CabinClass": "J",
+      "CabinSideA": "O",
+      "CabinSideB": "XB",
+      "CabinSideC": "XB",
+      "CabinSideD": "XB",
+      "CabinSideE": "O",
+      "CabinSideF": "P",
+      "CabinSideG": "XP",
+      "CabinSideH": "XP",
+      "CabinSideJ": "XP",
+      "CabinSideK": "P",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 17,
+      "CabinClass": "J",
+      "CabinSideA": "XB",
+      "CabinSideB": "O",
+      "CabinSideC": "XB",
+      "CabinSideD": "O",
+      "CabinSideE": "XP",
+      "CabinSideF": "XP",
+      "CabinSideG": "P",
+      "CabinSideH": "XP",
+      "CabinSideJ": "P",
+      "CabinSideK": "XP",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "A",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "A",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 18,
+      "CabinClass": "J",
+      "CabinSideA": "O",
+      "CabinSideB": "XB",
+      "CabinSideC": "XB",
+      "CabinSideD": "XB",
+      "CabinSideE": "O",
+      "CabinSideF": "P",
+      "CabinSideG": "XP",
+      "CabinSideH": "XP",
+      "CabinSideJ": "XP",
+      "CabinSideK": "P",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 19,
+      "CabinClass": "J",
+      "CabinSideA": "XB",
+      "CabinSideB": "O",
+      "CabinSideC": "XB",
+      "CabinSideD": "O",
+      "CabinSideE": "XP",
+      "CabinSideF": "XP",
+      "CabinSideG": "P",
+      "CabinSideH": "XP",
+      "CabinSideJ": "P",
+      "CabinSideK": "XP",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "A",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "A",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 20,
+      "CabinClass": "J",
+      "CabinSideA": "S",
+      "CabinSideB": "XS",
+      "CabinSideC": "XS",
+      "CabinSideD": "XS",
+      "CabinSideE": "S",
+      "CabinSideF": "U",
+      "CabinSideG": "XR",
+      "CabinSideH": "XR",
+      "CabinSideJ": "XR",
+      "CabinSideK": "U",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 21,
+      "CabinClass": "J",
+      "CabinSideA": "XS",
+      "CabinSideB": "S",
+      "CabinSideC": "XS",
+      "CabinSideD": "S",
+      "CabinSideE": "XU",
+      "CabinSideF": "XU",
+      "CabinSideG": "U",
+      "CabinSideH": "XU",
+      "CabinSideJ": "U",
+      "CabinSideK": "XU",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "B"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [
+          "B"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [
+          "B"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "A",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "A",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 22,
+      "CabinClass": "J",
+      "CabinSideA": "XS",
+      "CabinSideB": "XS",
+      "CabinSideC": "XS",
+      "CabinSideD": "S",
+      "CabinSideE": "XS",
+      "CabinSideF": "XU",
+      "CabinSideG": "U",
+      "CabinSideH": "XU",
+      "CabinSideJ": "XU",
+      "CabinSideK": "XU",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [
+          "B"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 23,
+      "CabinClass": "J",
+      "CabinSideA": "S",
+      "CabinSideB": "XS",
+      "CabinSideC": "XS",
+      "CabinSideD": "XS",
+      "CabinSideE": "S",
+      "CabinSideF": "U",
+      "CabinSideG": "XU",
+      "CabinSideH": "XU",
+      "CabinSideJ": "XU",
+      "CabinSideK": "U",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 24,
+      "CabinClass": "J",
+      "CabinSideA": "XS",
+      "CabinSideB": "S",
+      "CabinSideC": "XS",
+      "CabinSideD": "S",
+      "CabinSideE": "XU",
+      "CabinSideF": "XU",
+      "CabinSideG": "U",
+      "CabinSideH": "XU",
+      "CabinSideJ": "U",
+      "CabinSideK": "XU",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "A",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "A",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 25,
+      "CabinClass": "J",
+      "CabinSideA": "S",
+      "CabinSideB": "XS",
+      "CabinSideC": "XS",
+      "CabinSideD": "XS",
+      "CabinSideE": "S",
+      "CabinSideF": "U",
+      "CabinSideG": "XU",
+      "CabinSideH": "XU",
+      "CabinSideJ": "XU",
+      "CabinSideK": "U",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "X",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 26,
+      "CabinClass": "J",
+      "CabinSideA": "XS",
+      "CabinSideB": "S",
+      "CabinSideC": "XS",
+      "CabinSideD": "S",
+      "CabinSideE": "XU",
+      "CabinSideF": "XU",
+      "CabinSideG": "U",
+      "CabinSideH": "XU",
+      "CabinSideJ": "U",
+      "CabinSideK": "XU",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": ""
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "U",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "A",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "A",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 41,
+      "CabinClass": "Y",
+      "CabinSideA": "S",
+      "CabinSideB": "S",
+      "CabinSideC": "S",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "B",
+      "RowB": "B",
+      "RowC": "B",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "B",
+      "RowJ": "B",
+      "RowK": "B",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 42,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 43,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 44,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 45,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [
+          "L",
+          "B"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "B",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 46,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 47,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 48,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 49,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 50,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 51,
+      "CabinClass": "Y",
+      "CabinSideA": "XL",
+      "CabinSideB": "XL",
+      "CabinSideC": "XL",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "XR",
+      "CabinSideJ": "XR",
+      "CabinSideK": "XR",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [
+          "O"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "X",
+      "RowJ": "X",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 52,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "L",
+          "B"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "L",
+          "B"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "B",
+      "RowJ": "B",
+      "RowK": "B",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 53,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 54,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [
+          "L",
+          "B"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [
+          "L",
+          "B"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 55,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 56,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 57,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 58,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 59,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 60,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 61,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 62,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 63,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 64,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 65,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 66,
+      "CabinClass": "Y",
+      "CabinSideA": "XL",
+      "CabinSideB": "XL",
+      "CabinSideC": "XL",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "X",
+      "RowC": "X",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 67,
+      "CabinClass": "Y",
+      "CabinSideA": "XL",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "XR",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [
+          "L",
+          "B"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [
+          "L",
+          "B"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "B",
+      "RowC": "B",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "B",
+      "RowH": "B",
+      "RowJ": "B",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 68,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "B",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 69,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 70,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 71,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 72,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 73,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 74,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 75,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 76,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 77,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 78,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 79,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 80,
+      "CabinClass": "Y",
+      "CabinSideA": "XL",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "XR",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "X",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "X",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 81,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [
+          "L",
+          "B"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [
+          "L"
+        ],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [
+          "L",
+          "B"
+        ],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [
+          "E"
+        ],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 82,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 83,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 84,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 85,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 86,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "A",
+      "RowB": "A",
+      "RowC": "A",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "A",
+      "RowJ": "A",
+      "RowK": "A",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 87,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "L",
+      "CabinSideE": "L",
+      "CabinSideF": "R",
+      "CabinSideG": "R",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "B",
+      "RowB": "B",
+      "RowC": "B",
+      "RowD": "A",
+      "RowE": "A",
+      "RowF": "A",
+      "RowG": "A",
+      "RowH": "B",
+      "RowJ": "B",
+      "RowK": "B",
+      "Source": "Inbound"
+    },
+    {
+      "AirLine": "AI",
+      "Aisle": 88,
+      "CabinClass": "Y",
+      "CabinSideA": "L",
+      "CabinSideB": "L",
+      "CabinSideC": "L",
+      "CabinSideD": "XL",
+      "CabinSideE": "XL",
+      "CabinSideF": "XR",
+      "CabinSideG": "XR",
+      "CabinSideH": "R",
+      "CabinSideJ": "R",
+      "CabinSideK": "R",
+      "ConfigA": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "ConfigB": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigC": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigD": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigE": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigF": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigG": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigH": {
+        "Primary": [],
+        "Secondary": "A"
+      },
+      "ConfigJ": {
+        "Primary": [],
+        "Secondary": "M"
+      },
+      "ConfigK": {
+        "Primary": [],
+        "Secondary": "W"
+      },
+      "Deck": "M",
+      "FltKey": 6013807,
+      "IsDeleted": false,
+      "RowA": "B",
+      "RowB": "B",
+      "RowC": "B",
+      "RowD": "X",
+      "RowE": "X",
+      "RowF": "X",
+      "RowG": "X",
+      "RowH": "B",
+      "RowJ": "B",
+      "RowK": "B",
+      "Source": "Inbound"
+    }
+  ],
+  "OffPoint": "DXB",
+  "OpLocalTime": "Tue Feb 25 21:35:00 GST 2020",
+  "_id": "Seat-202002252135-EK0076-CDGDXB",
+  "_rev": "1-3249f450569cfd1fc0124c87ec082534",
+  "channels": [
+    "Seat_List",
+    "Seat_List-20200225",
+    "20200225",
+    "202002252135-EK0076-CDGDXB",
+    "Seat_List-202002252135-EK0076-CDGDXB"
+  ]
+}

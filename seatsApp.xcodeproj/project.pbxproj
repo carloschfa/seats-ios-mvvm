@@ -7,23 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		463893B7240B387C008A8CA6 /* SeatsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 463893B6240B387C008A8CA6 /* SeatsViewModel.swift */; };
+		463893BB240B4B13008A8CA6 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 463893BA240B4B13008A8CA6 /* UIView.swift */; };
 		464BCB102409E49A003803F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464BCB0F2409E49A003803F2 /* AppDelegate.swift */; };
 		464BCB122409E49A003803F2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464BCB112409E49A003803F2 /* SceneDelegate.swift */; };
-		464BCB142409E49A003803F2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464BCB132409E49A003803F2 /* ViewController.swift */; };
-		464BCB172409E49A003803F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 464BCB152409E49A003803F2 /* Main.storyboard */; };
 		464BCB192409E49C003803F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 464BCB182409E49C003803F2 /* Assets.xcassets */; };
 		464BCB1C2409E49C003803F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 464BCB1A2409E49C003803F2 /* LaunchScreen.storyboard */; };
+		464BCB2F2409E694003803F2 /* SeatsCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464BCB2D2409E694003803F2 /* SeatsCollectionViewController.swift */; };
+		464BCB302409E694003803F2 /* SeatsCollectionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 464BCB2E2409E694003803F2 /* SeatsCollectionViewController.xib */; };
+		4683F244240A2C7E00137E3C /* LetterNumberCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4683F242240A2C7E00137E3C /* LetterNumberCollectionViewCell.swift */; };
+		4683F245240A2C7E00137E3C /* LetterNumberCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4683F243240A2C7E00137E3C /* LetterNumberCollectionViewCell.xib */; };
+		4683F24E240A391000137E3C /* seat-fnb.json in Resources */ = {isa = PBXBuildFile; fileRef = 4683F24D240A391000137E3C /* seat-fnb.json */; };
+		4683F253240A39A500137E3C /* SeatMapModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4683F252240A39A500137E3C /* SeatMapModel.swift */; };
+		4691AA3C2409F49800FD4C01 /* SeatCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4691AA3A2409F49800FD4C01 /* SeatCollectionViewCell.swift */; };
+		4691AA3D2409F49800FD4C01 /* SeatCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4691AA3B2409F49800FD4C01 /* SeatCollectionViewCell.xib */; };
+		4691AA3F240A172D00FD4C01 /* UICollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4691AA3E240A172D00FD4C01 /* UICollectionViewLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		463893B6240B387C008A8CA6 /* SeatsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatsViewModel.swift; sourceTree = "<group>"; };
+		463893BA240B4B13008A8CA6 /* UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
 		464BCB0C2409E49A003803F2 /* seatsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = seatsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		464BCB0F2409E49A003803F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		464BCB112409E49A003803F2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		464BCB132409E49A003803F2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		464BCB162409E49A003803F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		464BCB182409E49C003803F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		464BCB1B2409E49C003803F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		464BCB1D2409E49C003803F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		464BCB2D2409E694003803F2 /* SeatsCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatsCollectionViewController.swift; sourceTree = "<group>"; };
+		464BCB2E2409E694003803F2 /* SeatsCollectionViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SeatsCollectionViewController.xib; sourceTree = "<group>"; };
+		4683F242240A2C7E00137E3C /* LetterNumberCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterNumberCollectionViewCell.swift; sourceTree = "<group>"; };
+		4683F243240A2C7E00137E3C /* LetterNumberCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LetterNumberCollectionViewCell.xib; sourceTree = "<group>"; };
+		4683F24D240A391000137E3C /* seat-fnb.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "seat-fnb.json"; sourceTree = "<group>"; };
+		4683F252240A39A500137E3C /* SeatMapModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatMapModel.swift; sourceTree = "<group>"; };
+		4691AA3A2409F49800FD4C01 /* SeatCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatCollectionViewCell.swift; sourceTree = "<group>"; };
+		4691AA3B2409F49800FD4C01 /* SeatCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SeatCollectionViewCell.xib; sourceTree = "<group>"; };
+		4691AA3E240A172D00FD4C01 /* UICollectionViewLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UICollectionViewLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,11 +55,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		463893B8240B4A26008A8CA6 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				463893B9240B4A2C008A8CA6 /* Extensions */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		463893B9240B4A2C008A8CA6 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				4691AA3E240A172D00FD4C01 /* UICollectionViewLayout.swift */,
+				463893BA240B4B13008A8CA6 /* UIView.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		464BCB032409E49A003803F2 = {
 			isa = PBXGroup;
 			children = (
 				464BCB0E2409E49A003803F2 /* seatsApp */,
-				464BCB0D2409E49A003803F2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,20 +85,102 @@
 				464BCB0C2409E49A003803F2 /* seatsApp.app */,
 			);
 			name = Products;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		464BCB0E2409E49A003803F2 /* seatsApp */ = {
 			isa = PBXGroup;
 			children = (
+				4683F24C240A390300137E3C /* Resources */,
+				4683F24B240A38F400137E3C /* App */,
 				464BCB0F2409E49A003803F2 /* AppDelegate.swift */,
 				464BCB112409E49A003803F2 /* SceneDelegate.swift */,
-				464BCB132409E49A003803F2 /* ViewController.swift */,
-				464BCB152409E49A003803F2 /* Main.storyboard */,
 				464BCB182409E49C003803F2 /* Assets.xcassets */,
 				464BCB1A2409E49C003803F2 /* LaunchScreen.storyboard */,
 				464BCB1D2409E49C003803F2 /* Info.plist */,
 			);
 			path = seatsApp;
+			sourceTree = "<group>";
+		};
+		464BCB232409E4D5003803F2 /* Seats */ = {
+			isa = PBXGroup;
+			children = (
+				4683F251240A393700137E3C /* View */,
+				4683F250240A392E00137E3C /* ViewModel */,
+				4683F24F240A392A00137E3C /* Model */,
+			);
+			path = Seats;
+			sourceTree = "<group>";
+		};
+		464BCB242409E541003803F2 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				4683F241240A2B4D00137E3C /* LetterNumber */,
+				4691AA372409F46400FD4C01 /* Seat */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		4683F241240A2B4D00137E3C /* LetterNumber */ = {
+			isa = PBXGroup;
+			children = (
+				4683F242240A2C7E00137E3C /* LetterNumberCollectionViewCell.swift */,
+				4683F243240A2C7E00137E3C /* LetterNumberCollectionViewCell.xib */,
+			);
+			path = LetterNumber;
+			sourceTree = "<group>";
+		};
+		4683F24B240A38F400137E3C /* App */ = {
+			isa = PBXGroup;
+			children = (
+				464BCB0D2409E49A003803F2 /* Products */,
+				463893B8240B4A26008A8CA6 /* Utils */,
+				464BCB232409E4D5003803F2 /* Seats */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		4683F24C240A390300137E3C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4683F24D240A391000137E3C /* seat-fnb.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		4683F24F240A392A00137E3C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4683F252240A39A500137E3C /* SeatMapModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		4683F250240A392E00137E3C /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				463893B6240B387C008A8CA6 /* SeatsViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		4683F251240A393700137E3C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				464BCB242409E541003803F2 /* Cells */,
+				464BCB2D2409E694003803F2 /* SeatsCollectionViewController.swift */,
+				464BCB2E2409E694003803F2 /* SeatsCollectionViewController.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		4691AA372409F46400FD4C01 /* Seat */ = {
+			isa = PBXGroup;
+			children = (
+				4691AA3A2409F49800FD4C01 /* SeatCollectionViewCell.swift */,
+				4691AA3B2409F49800FD4C01 /* SeatCollectionViewCell.xib */,
+			);
+			path = Seat;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +241,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4683F245240A2C7E00137E3C /* LetterNumberCollectionViewCell.xib in Resources */,
+				4683F24E240A391000137E3C /* seat-fnb.json in Resources */,
 				464BCB1C2409E49C003803F2 /* LaunchScreen.storyboard in Resources */,
+				464BCB302409E694003803F2 /* SeatsCollectionViewController.xib in Resources */,
 				464BCB192409E49C003803F2 /* Assets.xcassets in Resources */,
-				464BCB172409E49A003803F2 /* Main.storyboard in Resources */,
+				4691AA3D2409F49800FD4C01 /* SeatCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +257,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				464BCB142409E49A003803F2 /* ViewController.swift in Sources */,
+				4683F244240A2C7E00137E3C /* LetterNumberCollectionViewCell.swift in Sources */,
 				464BCB102409E49A003803F2 /* AppDelegate.swift in Sources */,
+				4683F253240A39A500137E3C /* SeatMapModel.swift in Sources */,
+				463893B7240B387C008A8CA6 /* SeatsViewModel.swift in Sources */,
 				464BCB122409E49A003803F2 /* SceneDelegate.swift in Sources */,
+				464BCB2F2409E694003803F2 /* SeatsCollectionViewController.swift in Sources */,
+				4691AA3F240A172D00FD4C01 /* UICollectionViewLayout.swift in Sources */,
+				463893BB240B4B13008A8CA6 /* UIView.swift in Sources */,
+				4691AA3C2409F49800FD4C01 /* SeatCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		464BCB152409E49A003803F2 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				464BCB162409E49A003803F2 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		464BCB1A2409E49C003803F2 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
