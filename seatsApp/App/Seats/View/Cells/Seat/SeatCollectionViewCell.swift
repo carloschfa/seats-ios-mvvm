@@ -47,8 +47,7 @@ class SeatCollectionViewCell: UICollectionViewCell {
       bottomSeparatorView.isHidden = false
       dividerView.isHidden = true
       
-      let nonAllowedSeats = ["XB","XL","XP","XR","XS","XU","XU"]
-      if nonAllowedSeats.contains(seat) {
+      if seat.count > 1 {
         contentView.isHidden = true
       } else {
         label.text = text
