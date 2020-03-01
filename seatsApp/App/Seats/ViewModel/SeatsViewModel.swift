@@ -83,17 +83,14 @@ class SeatsViewModel {
   private func getRows(from item: Item?, in index: Int) -> [String] {
     var seats: [String] = []
     guard let item = item else { return [] }
+    let mirror = Mirror(reflecting: item)
+    
     seats.append("\(item.aisle)")
-    seats.append(item.cabinSideA.rawValue)
-    seats.append(item.cabinSideB.rawValue)
-    seats.append(item.cabinSideC.rawValue)
-    seats.append(item.cabinSideD.rawValue)
-    seats.append(item.cabinSideE.rawValue)
-    seats.append(item.cabinSideF.rawValue)
-    seats.append(item.cabinSideG.rawValue)
-    seats.append(item.cabinSideH.rawValue)
-    seats.append(item.cabinSideJ.rawValue)
-    seats.append(item.cabinSideK.rawValue)
+    for child in mirror.children {
+      if let label = child.label, label.contains("cabinSide") {
+        seats.append("\(child.value)")
+      }
+    }
     seats.append("\(item.aisle)")
     
     return seats
